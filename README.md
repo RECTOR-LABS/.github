@@ -301,7 +301,7 @@ RECTOR LABS
 ├── 📝 Consistent descriptions (all 12 repos)
 ├── 🏷️ GitHub topics for discoverability
 ├── 📖 Custom READMEs (top 6 repos, 300-450 lines each)
-└── 🌟 Clear positioning: "Solana specialist from Indonesia, hackathon champion, values-driven"
+└── 🌟 Clear positioning: "Solana specialist from Indonesia, active in hackathons, values-driven"
 ```
 
 ---
@@ -313,7 +313,7 @@ RECTOR LABS
 - "Building for Eternity" philosophy
 - Balance of dunya (technical excellence) and akhirah (purposeful impact)
 
-### 2. Hackathon Champion Identity
+### 2. Active Hackathon Participation
 - 8 hackathons in 2025 highlighted
 - 100% completion rate showcased
 - Results-oriented positioning

@@ -19,7 +19,7 @@ We build blockchain solutions that matter—for **dunya** (worldly excellence) a
 
 **What we do:**
 - 🚀 **Solana Innovation** - MEV democratization, DeFi tools, civic tech
-- 🏆 **Hackathon Champions** - 8+ hackathons in 2025, pushing boundaries
+- 🏆 **Active in Hackathons** - 8+ hackathons in 2025, pushing boundaries
 - 🌏 **Indonesia-First** - Bridging Web3 with Southeast Asian needs
 - 🕌 **Values-Driven** - Building with Islamic principles of excellence and responsibility
 
@@ -134,27 +134,30 @@ Automated installer for recMEV—making Solana DEX pool discovery accessible to 
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                     BLOCKCHAIN                            ║
-║  Solana • Rust • TypeScript • Anchor • Web3.js • SPL     ║
-╚═══════════════════════════════════════════════════════════╝
+### 🔗 Blockchain
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-6C3FBC?style=for-the-badge&logo=anchor&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![SPL Token](https://img.shields.io/badge/SPL_Token-14F195?style=for-the-badge&logo=solana&logoColor=black)
 
-╔═══════════════════════════════════════════════════════════╗
-║                     FULL-STACK                            ║
-║  Ruby on Rails 8 • Python • PostgreSQL • RESTful APIs    ║
-╚═══════════════════════════════════════════════════════════╝
+### 💻 Full-Stack
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails_8-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-╔═══════════════════════════════════════════════════════════╗
-║                    AI & AGENTS                            ║
-║  Fetch.ai • SingularityNET • Multi-agent Systems         ║
-╚═══════════════════════════════════════════════════════════╝
+### 🤖 AI & Agents
+![Fetch.ai](https://img.shields.io/badge/Fetch.ai-0A1E42?style=for-the-badge&logo=fetch.ai&logoColor=white)
+![SingularityNET](https://img.shields.io/badge/SingularityNET-6C3FBC?style=for-the-badge&logo=ai&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 
-╔═══════════════════════════════════════════════════════════╗
-║                  INFRASTRUCTURE                           ║
-║  Shell Scripts • CI/CD • GitHub Actions • Docker         ║
-╚═══════════════════════════════════════════════════════════╝
-```
+### 🏗️ Infrastructure
+![Shell](https://img.shields.io/badge/Shell_Scripts-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 

@@ -19,7 +19,7 @@ Building for Eternity | Solana & Web3 Innovation from Indonesia 🇮🇩
 Blockchain solutions with purpose | Solana • Rails • AI Agents | Indonesia 🇮🇩 | Ihsan in every line
 ```
 
-### Option C: Hackathon Champion
+### Option C: Hackathon Participant
 ```
 8+ Hackathons • Solana Specialist • Building for Dunya & Akhirah • Indonesia 🇮🇩
 ```
