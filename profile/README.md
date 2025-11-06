@@ -134,30 +134,98 @@ Automated installer for recMEV—making Solana DEX pool discovery accessible to 
 
 <div align="center">
 
-### 🔗 Blockchain
-![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-6C3FBC?style=for-the-badge&logo=anchor&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![SPL Token](https://img.shields.io/badge/SPL_Token-14F195?style=for-the-badge&logo=solana&logoColor=black)
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="500" fill="#0d1117"/>
 
-### 💻 Full-Stack
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails_8-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  <!-- Title -->
+  <text x="450" y="40" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600" fill="#c9d1d9" text-anchor="middle">
+    🛠️ Tech Stack
+  </text>
 
-### 🤖 AI & Agents
-![Fetch.ai](https://img.shields.io/badge/Fetch.ai-0A1E42?style=for-the-badge&logo=fetch.ai&logoColor=white)
-![SingularityNET](https://img.shields.io/badge/SingularityNET-6C3FBC?style=for-the-badge&logo=ai&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+  <!-- Blockchain Section -->
+  <g>
+    <text x="450" y="85" font-family="'SF Pro Display', Arial, sans-serif" font-size="16" font-weight="600" fill="#14F195" text-anchor="middle">
+      🔗 Blockchain
+    </text>
+    <rect x="75" y="95" width="750" height="60" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Solana -->
+    <rect x="95" y="110" width="95" height="30" rx="5" fill="#14F195"/>
+    <text x="142" y="131" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">SOLANA</text>
+    <!-- Rust -->
+    <rect x="205" y="110" width="70" height="30" rx="5" fill="#000000" stroke="#fff" stroke-width="1.5"/>
+    <text x="240" y="131" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">RUST</text>
+    <!-- TypeScript -->
+    <rect x="290" y="110" width="115" height="30" rx="5" fill="#3178C6"/>
+    <text x="347" y="131" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">TYPESCRIPT</text>
+    <!-- Anchor -->
+    <rect x="420" y="110" width="90" height="30" rx="5" fill="#6C3FBC"/>
+    <text x="465" y="131" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">ANCHOR</text>
+    <!-- Web3.js -->
+    <rect x="525" y="110" width="90" height="30" rx="5" fill="#F16822"/>
+    <text x="570" y="131" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">WEB3.JS</text>
+    <!-- SPL -->
+    <rect x="630" y="110" width="95" height="30" rx="5" fill="#14F195"/>
+    <text x="677" y="131" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">SPL</text>
+  </g>
 
-### 🏗️ Infrastructure
-![Shell](https://img.shields.io/badge/Shell_Scripts-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <!-- Full-Stack Section -->
+  <g>
+    <text x="450" y="195" font-family="'SF Pro Display', Arial, sans-serif" font-size="16" font-weight="600" fill="#41CFFF" text-anchor="middle">
+      💻 Full-Stack
+    </text>
+    <rect x="75" y="205" width="750" height="60" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Ruby on Rails -->
+    <rect x="130" y="220" width="175" height="30" rx="5" fill="#CC0000"/>
+    <text x="217" y="241" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">RUBY ON RAILS 8</text>
+    <!-- Python -->
+    <rect x="320" y="220" width="90" height="30" rx="5" fill="#3776AB"/>
+    <text x="365" y="241" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">PYTHON</text>
+    <!-- PostgreSQL -->
+    <rect x="425" y="220" width="125" height="30" rx="5" fill="#316192"/>
+    <text x="487" y="241" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">POSTGRESQL</text>
+    <!-- RESTful APIs -->
+    <rect x="565" y="220" width="130" height="30" rx="5" fill="#00A67E"/>
+    <text x="630" y="241" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">RESTFUL APIs</text>
+  </g>
+
+  <!-- AI & Agents Section -->
+  <g>
+    <text x="450" y="305" font-family="'SF Pro Display', Arial, sans-serif" font-size="16" font-weight="600" fill="#F9C846" text-anchor="middle">
+      🤖 AI &amp; Agents
+    </text>
+    <rect x="75" y="315" width="750" height="60" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Fetch.ai -->
+    <rect x="180" y="330" width="105" height="30" rx="5" fill="#0A1E42"/>
+    <text x="232" y="351" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">FETCH.AI</text>
+    <!-- SingularityNET -->
+    <rect x="300" y="330" width="165" height="30" rx="5" fill="#6C3FBC"/>
+    <text x="382" y="351" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">SINGULARITYNET</text>
+    <!-- Multi-Agent Systems -->
+    <rect x="480" y="330" width="210" height="30" rx="5" fill="#FF6B6B"/>
+    <text x="585" y="351" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">MULTI-AGENT SYSTEMS</text>
+  </g>
+
+  <!-- Infrastructure Section -->
+  <g>
+    <text x="450" y="415" font-family="'SF Pro Display', Arial, sans-serif" font-size="16" font-weight="600" fill="#C9D1D9" text-anchor="middle">
+      🏗️ Infrastructure
+    </text>
+    <rect x="75" y="425" width="750" height="60" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Shell Scripts -->
+    <rect x="130" y="440" width="145" height="30" rx="5" fill="#121011" stroke="#4a5568" stroke-width="1"/>
+    <text x="202" y="461" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">SHELL SCRIPTS</text>
+    <!-- CI/CD -->
+    <rect x="290" y="440" width="75" height="30" rx="5" fill="#2088FF"/>
+    <text x="327" y="461" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">CI/CD</text>
+    <!-- GitHub Actions -->
+    <rect x="380" y="440" width="165" height="30" rx="5" fill="#2088FF"/>
+    <text x="462" y="461" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">GITHUB ACTIONS</text>
+    <!-- Docker -->
+    <rect x="560" y="440" width="90" height="30" rx="5" fill="#2496ED"/>
+    <text x="605" y="461" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">DOCKER</text>
+  </g>
+</svg>
 
 </div>
 
