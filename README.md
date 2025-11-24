@@ -19,6 +19,8 @@ github-revamp/
 ├── README.md                          ← YOU ARE HERE
 ├── GH_CLI_GUIDE.md                    ← AUTOMATED (gh CLI) ⚡ RECOMMENDED
 ├── IMPLEMENTATION_GUIDE.md            ← Manual (web UI) - step-by-step
+├── .github/
+│   └── FUNDING.yml                    ← Organization-wide sponsor button (NEW!)
 ├── scripts/                           ← Automation scripts
 │   ├── revamp.sh                      ← Master script (run this!)
 │   ├── 01-setup-org-profile.sh
@@ -39,6 +41,25 @@ github-revamp/
     ├── 5-ASI-AGENTS-TRACK-README.md   ← Custom README for asi-agents-track
     └── 6-RECMEV-INSTALLER-README.md   ← Custom README for recMEV-installer
 ```
+
+---
+
+## 💝 GitHub Sponsors Integration
+
+**NEW:** This repository now includes organization-wide GitHub Sponsors configuration!
+
+### What It Does
+- Adds a **❤️ Sponsor** button to all RECTOR-LABS repositories automatically
+- Links to [@rz1989s GitHub Sponsors](https://github.com/sponsors/rz1989s)
+- Works for all existing and future repositories in the organization
+- No per-repo configuration needed
+
+### Where It Appears
+- Top right of every repo page (next to Star/Fork buttons)
+- Right sidebar in the "About" section
+- Organization profile page
+
+The `.github/FUNDING.yml` file makes this happen across the entire organization with zero manual work per repo!
 
 ---
 
